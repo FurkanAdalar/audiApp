@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyComp\\Documents\\audiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|c:\\users\\mycomp\\documents\\audiapp\\audiapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|C:\\Users\\MyComp\\Documents\\audiApp\\audiapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4741F51-8274-4D04-BC2D-0AEC056708A4}|audiApp\\audiApp.csproj|solutionrelative:audiapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form6.Designer.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form6.Designer.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form6.Designer.cs",
+              "RelativeToolTip": "audiApp\\Form6.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:40:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Program.cs",
+              "RelativeDocumentMoniker": "audiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Program.cs",
+              "RelativeToolTip": "audiApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:18:35.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form6.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form6.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form6.cs [Design]",
+              "RelativeToolTip": "audiApp\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:43:48.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form4.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form4.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form4.cs",
+              "RelativeToolTip": "audiApp\\Form4.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:42:49.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form4.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form4.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form4.cs [Design]",
+              "RelativeToolTip": "audiApp\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:42:44.109Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form2.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form2.cs",
+              "RelativeToolTip": "audiApp\\Form2.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:42:32.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form2.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form2.cs [Design]",
+              "RelativeToolTip": "audiApp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:42:21.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form3.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form3.cs [Design]",
+              "RelativeToolTip": "audiApp\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:42:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form1.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form1.cs [Design]",
+              "RelativeToolTip": "audiApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:42:06.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form6.cs",
+              "RelativeDocumentMoniker": "audiApp\\Form6.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Form6.cs",
+              "RelativeToolTip": "audiApp\\Form6.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:49:52.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Class1.cs",
+              "RelativeDocumentMoniker": "audiApp\\Class1.cs",
+              "ToolTip": "C:\\Users\\MyComp\\Documents\\audiApp\\audiApp\\Class1.cs",
+              "RelativeToolTip": "audiApp\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:45:08.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
